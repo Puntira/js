@@ -7,5 +7,6 @@ const cat = {
 };
 
 console.log(cat.whatName());
+//Output:Pipey
 cat.name = "Nezzar";
 console.log(cat.whatName());
